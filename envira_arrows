@@ -1,0 +1,2 @@
+/* Show Envira gallery arrows */
+.envirabox-nav span { visibility: visible !important; }
