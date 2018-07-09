@@ -1,0 +1,9 @@
+/* styles gallery title color */
+#envira-gallery-ID .envira-gallery-item-inner span.envira-title {
+    color: #d50032;
+    font-size: 14px !important;
+    text-transform: capitalize;
+    padding: 5px 0;
+}
+
+/* replace the word ID with the ID number of your envira gallery*/
