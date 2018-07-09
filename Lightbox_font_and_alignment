@@ -1,0 +1,9 @@
+/* Envira Gallery lightbox font and alignment change */
+.envirabox-title
+{
+font-size: 15px !important;
+font-weight: bold !important;
+text-align: center !important;
+max-width: 1000px !important;
+margin: auto !important;
+} 
